@@ -1,3 +1,3 @@
-![download](https://github.com/user-attachments/assets/4d2f0904-c650-4ef2-9db4-97e40598938e)
+![JavaScript-BCG-Banner-icons](https://github.com/user-attachments/assets/65cf8a05-3f27-477a-b66a-5fe9bfc9bb69)
 
 # The-game-Guess-a-number-with-Java-Script
